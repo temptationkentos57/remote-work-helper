@@ -1,0 +1,13 @@
+{
+  "name": "remote-work-helper",
+  "version": "1.0.0",
+  "description": "Ứng dụng hỗ trợ làm việc từ xa",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo 'Không có kiểm thử'}
+  ",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

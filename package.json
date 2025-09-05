@@ -1,7 +1,7 @@
 {
   "name": "remote-work-helper",
   "version": "1.0.0",
-  "description": "An application designed to facilitate remote work and enhance collaboration.",
+  "description": "A tool to streamline remote work processes and boost team collaboration.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",

@@ -6,7 +6,7 @@ const PORT = process.env.PORT || 3000;
 app.use(express.json());
 
 app.get('/', (req, res) => {
-  res.send('Welcome to the Remote Work Helper!');
+  res.send('Welcome to the Remote Work Assistant!');
 });
 
 app.listen(PORT, () => {

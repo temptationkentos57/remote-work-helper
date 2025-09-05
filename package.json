@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "test": "echo 'Không có kiểm thử'}
-  ",
+    "test": "echo 'Không có kiểm thử'"
+  },
   "dependencies": {
     "express": "^4.17.1"
   }
